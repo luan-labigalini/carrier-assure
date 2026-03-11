@@ -4,8 +4,8 @@ This is a Test Assessment provided by Carrier Assure.
 
 It was proposed to create an application showing a dashboard with scores per carrier. It should also include:
 
-> An API to upload and access data;
-> The database.
+- An API to upload and access data;
+- The database.
 
 The current project was developed by Luan Labigalini.
 
